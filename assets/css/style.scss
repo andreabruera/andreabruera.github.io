@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 
 h1, h2, h3, h4, h5, h6 {
-  color:#7fff00;
   margin:0 0 20px;
+}
+
+h1 {
+    color:#ffa500;
 }
