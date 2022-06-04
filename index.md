@@ -16,6 +16,8 @@ Also, while on a break from his Ph.D., I worked as a **Junior Research Scientist
 
 I hold a **BA in Philosophy** from the University of Torino and a **M.Sc. in Cognitive Science** from the University of Trento.
 
+On the side, I also manage/am part of a label of experimental and avant-garde music called [SOVN Records](./https://sovnrecords.bandcamp.com) - if you feel adventurous, check out [a compilation we recently released](./https://sovnrecords.bandcamp.com/album/music-for-queuing-at-the-supermarket)!
+
 ## Publications
 
 ### 2022
