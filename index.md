@@ -20,7 +20,7 @@ I hold a **BA in Philosophy** from the University of Torino and a **M.Sc. in Cog
 
 ### 2022
 
-- Bruera, A. & Poesio, M., _Exploring the representations of individual entities in the brain combining EEG and distributional semantics_, Frontiers in Artificial Intelligence, 25
+- Bruera, A. & Poesio, M., [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25
 
 - Bruera, A., Aldà, F., Di Cerbo, F., _Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_, LEGAL2022 Legal and Ethical Issues in Human Language Technologies Workshop, LREC 2022, Marseille
 
@@ -28,4 +28,4 @@ I hold a **BA in Philosophy** from the University of Torino and a **M.Sc. in Cog
 
 ### 2021
 
-- Bruera, A. & Herbelot, A., _Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_, arXiv preprint arXiv:2104.10270
+- Bruera, A. & Herbelot, A., [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
