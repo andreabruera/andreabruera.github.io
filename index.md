@@ -10,7 +10,7 @@ As brain data recording technique, I am using mostly **electroencephalography (E
 
 I am a **3rd year Ph.D. student in Computer Science** in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk), School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao). My Ph.D. project revolves around the semantics of individual entities and proper names, looking at how these are represented in brains and machines, and trying to bring together both cognitive and computational approaches. 
 
-I was a **visiting Ph.D. student** at the Language, [Learning and Reading lab in SISSA in Trieste](./https://lrlac.sissa.it), and at the [COLT group in Universitat Pompeu Fabra in Barcelona](./https://www.upf.edu/web/colt). 
+I was a **visiting Ph.D. student** at the [Language, Learning and Reading lab](./https://lrlac.sissa.it) at SISSA in Trieste, and at the [COLT group](./https://www.upf.edu/web/colt) at Universitat Pompeu Fabra in Barcelona. 
 
 Also, while on a break from his Ph.D., I worked as a **Junior Research Scientist** at [SAP Security Research](./https://blogs.sap.com/2020/10/09/why-are-we-doing-security-research-at-sap/) in Mougins, France, on applying NLP techniques for de-identification and data anonymization. 
 
