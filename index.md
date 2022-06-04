@@ -8,7 +8,7 @@ As brain data recording technique, I am using mostly electroencephalography (EEG
 
 ## Bio
 
-![Sandwich](docs/assets/cover.jpg)
+![Sandwich](cover.jpg)
 
 I am a 3rd year Ph.D. student in the CogSci group at QMUL, under the supervision of Massimo Poesio. My Ph.D. project revolves around the semantics of individual entities and proper names, looking at how these are represented in brains and machines, and trying to bring together both cognitive and computational approaches. 
 
