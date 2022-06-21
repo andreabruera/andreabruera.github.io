@@ -24,7 +24,7 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 - Bruera, A. & Poesio, M., [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25
 
-- Bruera, A., Aldà, F., Di Cerbo, F., _Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_, LEGAL2022 Legal and Ethical Issues in Human Language Technologies Workshop, LREC 2022, Marseille
+- Bruera, A., Aldà, F., Di Cerbo, F., [_Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_](./http://www.lrec-conf.org/proceedings/lrec2022/workshops/LEGAL/pdf/2022.legal-1.11.pdf), Proceedings of the Workshop on Ethical and Legal Issues in Human Language Technologies and Multilingual De-Identification of Sensitive Data In Language Resources within the 13th Language Resources and Evaluation Conference, June 2022, Marseille
 
 ## Preprints
 
