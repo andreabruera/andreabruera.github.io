@@ -22,7 +22,7 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ### 2023
 
-Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings], Cognitive Science, DOI: 10.1111/cogs.13388
+- Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings], Cognitive Science, DOI: 10.1111/cogs.13388
 
 ### 2022
 
@@ -34,7 +34,7 @@ Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Mod
 
 ### 2023
 
-Bruera, A., & Poesio, M. (2023). [Family Lexicon: using language models to encode memories of personally familiar and famous people and places in the brain](https://www.biorxiv.org/content/10.1101/2023.08.23.554436.abstract). bioRxiv, 2023-08.
+- Bruera, A., & Poesio, M. (2023). [Family Lexicon: using language models to encode memories of personally familiar and famous people and places in the brain](https://www.biorxiv.org/content/10.1101/2023.08.23.554436.abstract). bioRxiv, 2023-08.
 
 ### 2021
 
