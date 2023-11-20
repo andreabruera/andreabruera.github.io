@@ -1,10 +1,12 @@
-I am a **final year Ph.D. student in Computer Science** in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk), School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao). 
+I am a **PostDoc researcher** in the [Cognition and Plasticity](./https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity) research group led by [Gesa Hartwigsen]() at the [Max Planck Institute for Human and Brain Cognition]().
+
+I received a Ph.D. in Computer Science from the School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao) in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk). 
 
 Very broadly, I am interested in what goes on in the brain when we think about things in the world, and the way in which we remember them (good ol' **semantics**). 
 
-I investigate brain - electroencephalography (**EEG**), magnetic resonance imaging (**fMRI**) - and behavioural data using cutting-edge methods from **machine learning**, Artificial Intelligence (**AI**), and in particular Natural Language Processing (**NLP**) - (large) language models, language statistics and distributions, corpora.
+I investigate brain - electroencephalography (**EEG**), magnetic resonance imaging (**fMRI**), transcranial magnetic stimulation (**TMS**) - and behavioural data using cutting-edge methods from **machine learning**, Artificial Intelligence (**AI**), and in particular Natural Language Processing (**NLP**) - (large) language models, language statistics and distributions, corpora.
 
-My Ph.D. project revolves around the semantics of **individual entities and proper names** (entities referred to by proper names, such as ’Yasujiro Ozu’ or `Cafe Oto'). They are particularly interesting when compared with generic stuff such as trees, windows, birds - think about how easy and embarrassing it is to forget somebody's name! In jargon, their meaning is extremely fine- grained and social in nature. Because of these challenges, I look at how these are **represented in brains and machines**, and I try to bring together both cognitive and computational approaches.
+My Ph.D. project revolved around the semantics of **individual entities and proper names** (entities referred to by proper names, such as ’Yasujiro Ozu’ or `Cafe Oto'). They are particularly interesting when compared with generic stuff such as trees, windows, birds - think about how easy and embarrassing it is to forget somebody's name! In jargon, their meaning is extremely fine- grained and social in nature. Because of these challenges, I looked at how these are **represented in brains and machines**, and I try to bring together both cognitive and computational approaches.
 
 ## Bio
 
