@@ -1,4 +1,4 @@
-I am a **postdoctoral researcher (postdoc)** in the [Cognition and Plasticity](./https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity) research group led by [Gesa Hartwigsen]() at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en).
+I am a **postdoctoral researcher (postdoc)** in the [Cognition and Plasticity](./https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity) research group led by [Gesa Hartwigsen](https://scholar.google.nl/citations?user=5YaFMKwAAAAJ&hl=de) at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en).
 
 I received a Ph.D. in Computer Science from the School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao) in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk). 
 
