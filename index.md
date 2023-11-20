@@ -20,14 +20,28 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ## Publications
 
+### 2023
+
+Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings], Cognitive Science, DOI: 10.1111/cogs.13388
+
 ### 2022
 
-- Bruera, A. & Poesio, M., [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25, 2022
+- Bruera, A. & Poesio, M. (2022). [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25, 2022
 
-- Bruera, A., Aldà, F., Di Cerbo, F., [_Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_](./http://www.lrec-conf.org/proceedings/lrec2022/workshops/LEGAL/pdf/2022.legal-1.11.pdf), Proceedings of the Workshop on Ethical and Legal Issues in Human Language Technologies and Multilingual De-Identification of Sensitive Data In Language Resources within the 13th Language Resources and Evaluation Conference, June 2022, Marseille
+- Bruera, A., Aldà, F., Di Cerbo, F. (2022). [_Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_](./http://www.lrec-conf.org/proceedings/lrec2022/workshops/LEGAL/pdf/2022.legal-1.11.pdf), Proceedings of the Workshop on Ethical and Legal Issues in Human Language Technologies and Multilingual De-Identification of Sensitive Data In Language Resources within the 13th Language Resources and Evaluation Conference, June 2022, Marseille
 
 ## Preprints
 
+### 2023
+
+Bruera, A., & Poesio, M. (2023). [Family Lexicon: using language models to encode memories of personally familiar and famous people and places in the brain](https://www.biorxiv.org/content/10.1101/2023.08.23.554436.abstract). bioRxiv, 2023-08.
+
 ### 2021
 
-- Bruera, A. & Herbelot, A., [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
+- Bruera, A. & Herbelot, A., (2021). [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
+
+  ## Patent Application
+
+  ### 2023
+
+  - Francesco, A. L. D. A., Bruera, A., & Di Cerbo, F. (2023). [Generating user-based training data for machine learning](https://patents.google.com/patent/US20230325776A1/en) U.S. Patent Application No. 17/716,368
