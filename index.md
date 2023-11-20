@@ -40,8 +40,8 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 - Bruera, A. & Herbelot, A., (2021). [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
 
-  ## Patent Application
+## Patent Application
 
-  ### 2023
+### 2023
 
-  - Francesco, A. L. D. A., Bruera, A., & Di Cerbo, F. (2023). [Generating user-based training data for machine learning](https://patents.google.com/patent/US20230325776A1/en) U.S. Patent Application No. 17/716,368
+- Francesco, A. L. D. A., Bruera, A., & Di Cerbo, F. (2023). [Generating user-based training data for machine learning](https://patents.google.com/patent/US20230325776A1/en) U.S. Patent Application No. 17/716,368
