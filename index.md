@@ -20,9 +20,15 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ## Publications
 
+### 2024
+
+- Bruera, A., Poesio, M. (2024). [EEG Searchlight Decoding Reveals Person- and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02125/119444/EEG-Searchlight-Decoding-Reveals-Person-and-Place?redirectedFrom=fulltext). Journal of Cognitive Neuroscience 2024; doi: https://doi.org/10.1162/jocn_a_02125
+
+- Bruera, A., Zamani, F., Poesio, M. (2024). [Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
+
 ### 2023
 
-- Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings], Cognitive Science, DOI: 10.1111/cogs.13388
+- Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science, DOI: 10.1111/cogs.13388
 
 ### 2022
 
@@ -40,6 +46,10 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 - Bruera, A. & Herbelot, A., (2021). [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
 
+## Datasets
+
+Datasets for most of the papers are available on [my OSF profile](https://osf.io/q27xc/)
+ 
 ## Patent Application
 
 ### 2023
