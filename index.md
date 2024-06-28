@@ -22,7 +22,7 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ### 2024
 
-- Bruera, A., Poesio, M. (2024). [EEG Searchlight Decoding Reveals Person- and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02125/119444/EEG-Searchlight-Decoding-Reveals-Person-and-Place?redirectedFrom=fulltext). Journal of Cognitive Neuroscience 2024; doi: https://doi.org/10.1162/jocn_a_02125
+- Bruera, A., Poesio, M. (2024). [EEG Searchlight Decoding Reveals Person- and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02125/119444/EEG-Searchlight-Decoding-Reveals-Person-and-Place?redirectedFrom=fulltext). Journal of Cognitive Neuroscience 2024.
 
 - Bruera, A., Zamani, F., Poesio, M. (2024). [Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
 
