@@ -2,9 +2,9 @@ I am a **postdoctoral researcher (postdoc)** in the [Cognition and Plasticity](.
 
 I received a Ph.D. in Computer Science from the School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao) in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk). 
 
-Very broadly, I am interested in what goes on in the brain when we think about things in the world, and the way in which we remember them (good ol' **semantics**). 
+Very broadly, I am interested in what goes on in the brain when we think about things in the world, remember them and call them by their name (good ol' **semantics**). 
 
-I investigate brain - electroencephalography (**EEG**), magnetic resonance imaging (**fMRI**), transcranial magnetic stimulation (**TMS**) - and behavioural data using cutting-edge methods from **machine learning**, Artificial Intelligence (**AI**), and in particular Natural Language Processing (**NLP**) - (large) language models, language statistics and distributions, corpora.
+I believe in a multidisciplinary approach, bringing together neuroscience, computer science, cognitive psychology and linguistics. I usually investigate brain - electroencephalography (**EEG**), magnetic resonance imaging (**fMRI**), transcranial magnetic stimulation (**TMS**) - and behavioural data using cutting-edge methods from **machine learning**, Artificial Intelligence (**AI**), and in particular Natural Language Processing (**NLP**) - (large) language models, language statistics and distributions, corpora.
 
 My Ph.D. project revolved around the semantics of **individual entities and proper names** (entities referred to by proper names, such as ’Yasujiro Ozu’ or `Cafe Oto'). They are particularly interesting when compared with generic stuff such as trees, windows, birds - think about how easy and embarrassing it is to forget somebody's name! In jargon, their meaning is extremely fine- grained and social in nature. Because of these challenges, I looked at how these are **represented in brains and machines**, and I try to bring together both cognitive and computational approaches.
 
@@ -20,31 +20,23 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ## Publications
 
-### 2024
+- **Bruera, A.**, Poesio, M. (2025). [EEG Searchlight Decoding Reveals Person- and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02125/119444/EEG-Searchlight-Decoding-Reveals-Person-and-Place?redirectedFrom=fulltext). Journal of Cognitive Neuroscience 2024.
 
-- Bruera, A., Poesio, M. (2024). [EEG Searchlight Decoding Reveals Person- and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02125/119444/EEG-Searchlight-Decoding-Reveals-Person-and-Place?redirectedFrom=fulltext). Journal of Cognitive Neuroscience 2024.
+- Martin, S., Ferrante, M., **Bruera, A**., & Hartwigsen, G. (2025). [Causal Contributions of Left Inferior and Medial Frontal Cortex to Semantic and Executive Control.](https://www.biorxiv.org/content/10.1101/2025.04.16.649200.full.pdf) bioRxiv, 2025-04.
 
-- Bruera, A., Zamani, F., Poesio, M. (2024). [Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
+- Barchet, A. V., **Bruera, A.**, Wend, J., Rimmele, J. M., Obleser, J., & Hartwigsen, G. (2025). [Attentional engagement with target and distractor streams predicts speech comprehension in multitalker environments](https://www.biorxiv.org/content/biorxiv/early/2025/04/04/2025.04.04.647157.full.pdf). bioRxiv, 2025-04.
 
-### 2023
+- **Bruera, A.**, & Poesio, M. (2024). [Family Lexicon: Using language models to encode memories of personally familiar and famous people and places in the brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291099). PloS One, 19(11), e0291099.
 
-- Bruera, A., Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science, DOI: 10.1111/cogs.13388
+- **Bruera, A.**, Zamani, F., Poesio, M. (2024). [Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
 
-### 2022
+- **Bruera, A.**, Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science, DOI: 10.1111/cogs.13388
 
-- Bruera, A. & Poesio, M. (2022). [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25, 2022
+- **Bruera, A**. & Poesio, M. (2022). [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25, 2022
 
-- Bruera, A., Aldà, F., Di Cerbo, F. (2022). [_Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_](./http://www.lrec-conf.org/proceedings/lrec2022/workshops/LEGAL/pdf/2022.legal-1.11.pdf), Proceedings of the Workshop on Ethical and Legal Issues in Human Language Technologies and Multilingual De-Identification of Sensitive Data In Language Resources within the 13th Language Resources and Evaluation Conference, June 2022, Marseille
+- **Bruera, A.**, Aldà, F., Di Cerbo, F. (2022). [_Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_](./http://www.lrec-conf.org/proceedings/lrec2022/workshops/LEGAL/pdf/2022.legal-1.11.pdf), Proceedings of the Workshop on Ethical and Legal Issues in Human Language Technologies and Multilingual De-Identification of Sensitive Data In Language Resources within the 13th Language Resources and Evaluation Conference, June 2022, Marseille
 
-## Preprints
-
-### 2023
-
-- Bruera, A., & Poesio, M. (2023). [Family Lexicon: using language models to encode memories of personally familiar and famous people and places in the brain](https://www.biorxiv.org/content/10.1101/2023.08.23.554436.abstract). bioRxiv, 2023-08.
-
-### 2021
-
-- Bruera, A. & Herbelot, A., (2021). [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
+- **Bruera, A.** & Herbelot, A., (2021). [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
 
 ## Datasets
 
