@@ -20,7 +20,7 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ## Publications
 
-- **Bruera, A.**, Poesio, M. (2025). [EEG Searchlight Decoding Reveals Person- and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/jocn_a_02125/119444/EEG-Searchlight-Decoding-Reveals-Person-and-Place?redirectedFrom=fulltext). Journal of Cognitive Neuroscience 2024.
+- **Bruera, A.**, & Poesio, M. (2025). Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity. Journal of Cognitive Neuroscience, 37(1), 135-154.
 
 - Martin, S., Ferrante, M., **Bruera, A**., & Hartwigsen, G. (2025). [Causal Contributions of Left Inferior and Medial Frontal Cortex to Semantic and Executive Control.](https://www.biorxiv.org/content/10.1101/2025.04.16.649200.full.pdf) bioRxiv, 2025-04.
 
