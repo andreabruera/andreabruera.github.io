@@ -24,7 +24,7 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 - Martin, S., Ferrante, M., **Bruera, A**., & Hartwigsen, G. (2025). [_Causal Contributions of Left Inferior and Medial Frontal Cortex to Semantic and Executive Control._](https://www.biorxiv.org/content/10.1101/2025.04.16.649200.full.pdf) bioRxiv, 2025-04.
 
-- Barchet, A. V., **Bruera, A.**, Wend, J., Rimmele, J. M., Obleser, J., & Hartwigsen, G. (2025). [Attentional engagement with target and distractor streams predicts speech comprehension in multitalker environments](https://www.biorxiv.org/content/biorxiv/early/2025/04/04/2025.04.04.647157.full.pdf). bioRxiv, 2025-04.
+- Barchet, A. V., **Bruera, A.**, Wend, J., Rimmele, J. M., Obleser, J., & Hartwigsen, G. (2025). [_Attentional engagement with target and distractor streams predicts speech comprehension in multitalker environments_](https://www.biorxiv.org/content/biorxiv/early/2025/04/04/2025.04.04.647157.full.pdf). bioRxiv, 2025-04.
 
 - **Bruera, A.**, & Poesio, M. (2024). [_Family Lexicon: Using language models to encode memories of personally familiar and famous people and places in the brain_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291099). PloS One, 19(11), e0291099.
 
