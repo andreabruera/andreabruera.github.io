@@ -20,17 +20,17 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ## Publications
 
-- **Bruera, A.**, & Poesio, M. (2025). [Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity](https://direct.mit.edu/jocn/article-abstract/37/1/135/119444/Electroencephalography-Searchlight-Decoding). Journal of Cognitive Neuroscience, 37(1), 135-154.
+- **Bruera, A.**, & Poesio, M. (2025). [_Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity_](https://direct.mit.edu/jocn/article-abstract/37/1/135/119444/Electroencephalography-Searchlight-Decoding). Journal of Cognitive Neuroscience, 37(1), 135-154.
 
-- Martin, S., Ferrante, M., **Bruera, A**., & Hartwigsen, G. (2025). [Causal Contributions of Left Inferior and Medial Frontal Cortex to Semantic and Executive Control.](https://www.biorxiv.org/content/10.1101/2025.04.16.649200.full.pdf) bioRxiv, 2025-04.
+- Martin, S., Ferrante, M., **Bruera, A**., & Hartwigsen, G. (2025). [_Causal Contributions of Left Inferior and Medial Frontal Cortex to Semantic and Executive Control._](https://www.biorxiv.org/content/10.1101/2025.04.16.649200.full.pdf) bioRxiv, 2025-04.
 
 - Barchet, A. V., **Bruera, A.**, Wend, J., Rimmele, J. M., Obleser, J., & Hartwigsen, G. (2025). [Attentional engagement with target and distractor streams predicts speech comprehension in multitalker environments](https://www.biorxiv.org/content/biorxiv/early/2025/04/04/2025.04.04.647157.full.pdf). bioRxiv, 2025-04.
 
-- **Bruera, A.**, & Poesio, M. (2024). [Family Lexicon: Using language models to encode memories of personally familiar and famous people and places in the brain](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291099). PloS One, 19(11), e0291099.
+- **Bruera, A.**, & Poesio, M. (2024). [_Family Lexicon: Using language models to encode memories of personally familiar and famous people and places in the brain_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291099). PloS One, 19(11), e0291099.
 
-- **Bruera, A.**, Zamani, F., Poesio, M. (2024). [Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
+- **Bruera, A.**, Zamani, F., Poesio, M. (2024). [_Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models_](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
 
-- **Bruera, A.**, Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science, DOI: 10.1111/cogs.13388
+- **Bruera, A.**, Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [_Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings_](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science, DOI: 10.1111/cogs.13388
 
 - **Bruera, A**. & Poesio, M. (2022). [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25, 2022
 
