@@ -8,6 +8,8 @@ I believe in a multidisciplinary approach, bringing together neuroscience, compu
 
 For instance, my Ph.D. project revolved around the semantics of **individual entities and proper names** (entities referred to by proper names, such as ’Yasujiro Ozu’ or `Cafe Oto'). They are particularly interesting when compared with generic stuff such as trees, windows, birds - think about how easy and embarrassing it is to forget somebody's name! In jargon, their meaning is extremely fine- grained and social in nature. Because of these challenges, I looked at how these are **represented in brains and machines**, and I try to bring together both cognitive and computational approaches.
 
+If you'd like to collaborate, or carry out an internship at the MPI, shoot me an email!
+
 ## Bio
 
 During my Ph.D., I have also been a **visiting Ph.D. student** at the [Language, Learning and Reading lab](./https://lrlac.sissa.it) at SISSA in Trieste, and at the [COLT group](./https://www.upf.edu/web/colt) at Universitat Pompeu Fabra in Barcelona. 
