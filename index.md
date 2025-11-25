@@ -24,7 +24,6 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 - **Bruera, A.**, & Poesio, M. (2025). [_Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity_](https://direct.mit.edu/jocn/article-abstract/37/1/135/119444/Electroencephalography-Searchlight-Decoding). Journal of Cognitive Neuroscience, 37(1), 135-154.
 
-- Martin, S., Ferrante, M., **Bruera, A**., & Hartwigsen, G. (2025). [_Causal Contributions of Left Inferior and Medial Frontal Cortex to Semantic and Executive Control._](https://www.biorxiv.org/content/10.1101/2025.04.16.649200.full.pdf) bioRxiv, 2025-04.
 - Martin, S., Ferrante, M., **Bruera, A.**, & Hartwigsen, G. (2025). [Causal contributions of left inferior and medial frontal cortex to semantic and executive control.](https://www.nature.com/articles/s42003-025-08848-5) Communications Biology, 8(1), 1343.
 
 - Barchet AV, **Bruera A**, Wend J, Rimmele JM, Obleser J, Hartwigsen G (2025). [Attentional engagement with target and distractor streams predicts speech comprehension in multitalker environments.](https://www.jneurosci.org/content/early/2025/10/23/JNEUROSCI.0657-25.2025.long) Journal of Neuroscience
