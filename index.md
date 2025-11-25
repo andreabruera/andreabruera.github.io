@@ -20,9 +20,11 @@ I hold a **BA in Philosophy** from the University of Torino and a **M.Sc. in Cog
 
 On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.bandcamp.com), a small DIY label of experimental and avant-garde music - if you feel adventurous, check out [a compilation](./https://sovnrecords.bandcamp.com/album/music-for-queuing-at-the-supermarket)  we recently released!
 
-## Publications
+## Publications (including preprints)
 
 - **Bruera, A.**, & Poesio, M. (2025). [_Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity_](https://direct.mit.edu/jocn/article-abstract/37/1/135/119444/Electroencephalography-Searchlight-Decoding). Journal of Cognitive Neuroscience, 37(1), 135-154.
+
+- **Bruera, A.**, & Hartwigsen, G. (2025). [A novel approach to map the causal impact of brain stimulation on semantic processing with language models.](https://www.biorxiv.org/content/10.1101/2025.05.06.652092v1) bioRxiv, 2025-05.
 
 - Martin, S., Ferrante, M., **Bruera, A.**, & Hartwigsen, G. (2025). [Causal contributions of left inferior and medial frontal cortex to semantic and executive control.](https://www.nature.com/articles/s42003-025-08848-5) Communications Biology, 8(1), 1343.
 
