@@ -34,7 +34,7 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 - **Bruera, A.**, Zamani, F., Poesio, M. (2024). [_Polysemy through the lens of psycholinguistic variables: a dataset and an evaluation of static and contextualized language models_](https://aclanthology.org/2024.starsem-1.3/). In Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024), Association for Computational Linguistics.
 
-- **Bruera, A.**, Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [_Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings_](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science, DOI: 10.1111/cogs.13388
+- **Bruera, A.**, Tao, Y., Anderson, A., Cokal, D., Haber, J., Poesio, M. (2023). [_Modelling brain representations of words’ concreteness in context using GPT-2 and human ratings_](https://onlinelibrary.wiley.com/doi/10.1111/cogs.13388), Cognitive Science
 
 - **Bruera, A**. & Poesio, M. (2022). [_Exploring the representations of individual entities in the brain combining EEG and distributional semantics_](./https://www.frontiersin.org/articles/10.3389/frai.2022.796793/full), Frontiers in Artificial Intelligence, 25, 2022
 
