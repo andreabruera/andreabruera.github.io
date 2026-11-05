@@ -1,16 +1,14 @@
 I am an **invited researcher (young PI for the EEG and language lab)** at the University of Coimbra, as part of the [Cogbooster](https://www.uc.pt/cogbooster/) team. 
 
+My research deals mainly with words: deceivingly simple, extremely fascinating and powerful things! My main interest is investigating _how_ they mean _what_ they mean (good ol' **semantics**); however, since in language everything is connected, this inevitably leads me to deal with all other levels of language as well.
+
+I believe in a multidisciplinary approach, bringing together neuroscience, computer science, cognitive psychology and linguistics. I usually investigate brain - electroencephalography (**EEG**), magnetic resonance imaging (**fMRI**), transcranial magnetic stimulation (**TMS**) - and behavioural data using cutting-edge methods from **machine learning**, Artificial Intelligence (**AI**), and in particular Natural Language Processing (**NLP**) - (large) language models, language statistics and distributions, corpora.
+
 Previously, I was a **postdoctoral researcher** at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en), in the [Cognition and Plasticity](./https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity) research group led by [Gesa Hartwigsen](https://scholar.google.nl/citations?user=5YaFMKwAAAAJ&hl=de).
 
 I received my **Ph.D. in Computer Science** from the School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao) in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk). 
 
-Very broadly, I am interested in what goes on in the brain when we think about things in the world, remember them and call them by their name (good ol' **semantics**). 
-
-I believe in a multidisciplinary approach, bringing together neuroscience, computer science, cognitive psychology and linguistics. I usually investigate brain - electroencephalography (**EEG**), magnetic resonance imaging (**fMRI**), transcranial magnetic stimulation (**TMS**) - and behavioural data using cutting-edge methods from **machine learning**, Artificial Intelligence (**AI**), and in particular Natural Language Processing (**NLP**) - (large) language models, language statistics and distributions, corpora.
-
-For instance, my Ph.D. project revolved around the semantics of **individual entities and proper names** (entities referred to by proper names, such as ’Yasujiro Ozu’ or `Cafe Oto'). They are particularly interesting when compared with generic stuff such as trees, windows, birds - think about how easy and embarrassing it is to forget somebody's name! In jargon, their meaning is extremely fine- grained and social in nature. Because of these challenges, I looked at how these are **represented in brains and machines**, and I try to bring together both cognitive and computational approaches.
-
-If you'd like to collaborate, or come to Coimbra, shoot me an email!
+If you'd like to collaborate, and/or come work with me in Coimbra, shoot me an email!
 
 ## Bio
 
