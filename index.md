@@ -1,6 +1,8 @@
-I am a **postdoctoral researcher (postdoc)** in the [Cognition and Plasticity](./https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity) research group led by [Gesa Hartwigsen](https://scholar.google.nl/citations?user=5YaFMKwAAAAJ&hl=de) at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en).
+I am an **invited researcher (young PI for the EEG and language lab)** at the University of Coimbra, as part of the [Cogbooster](https://www.uc.pt/cogbooster/) team. 
 
-I received a Ph.D. in Computer Science from the School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao) in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk). 
+Previously, I was a **postdoctoral researcher** at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en), in the [Cognition and Plasticity](./https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity) research group led by [Gesa Hartwigsen](https://scholar.google.nl/citations?user=5YaFMKwAAAAJ&hl=de).
+
+I received my **Ph.D. in Computer Science** from the School of Electronic Engineering and Computer Science at Queen Mary University of London, under the supervision of [Massimo Poesio](./https://scholar.google.com/citations?user=89aa1X0AAAAJ&hl=it&oi=ao) in the [CogSci group](./http://cogsci.eecs.qmul.ac.uk). 
 
 Very broadly, I am interested in what goes on in the brain when we think about things in the world, remember them and call them by their name (good ol' **semantics**). 
 
@@ -8,7 +10,7 @@ I believe in a multidisciplinary approach, bringing together neuroscience, compu
 
 For instance, my Ph.D. project revolved around the semantics of **individual entities and proper names** (entities referred to by proper names, such as ’Yasujiro Ozu’ or `Cafe Oto'). They are particularly interesting when compared with generic stuff such as trees, windows, birds - think about how easy and embarrassing it is to forget somebody's name! In jargon, their meaning is extremely fine- grained and social in nature. Because of these challenges, I looked at how these are **represented in brains and machines**, and I try to bring together both cognitive and computational approaches.
 
-If you'd like to collaborate, or carry out an internship at the MPI, shoot me an email!
+If you'd like to collaborate, or come to Coimbra, shoot me an email!
 
 ## Bio
 
@@ -22,9 +24,15 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 
 ## Publications (including preprints)
 
-- **Bruera, A.**, & Poesio, M. (2025). [_Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity_](https://direct.mit.edu/jocn/article-abstract/37/1/135/119444/Electroencephalography-Searchlight-Decoding). Journal of Cognitive Neuroscience, 37(1), 135-154.
+- **Bruera, A.**, Jiang, Z., Saur, D., Stockert, A., & Hartwigsen, G. (2026). [_Changes in Neural Dynamics of Brain Activity and Connectivity Independently Predict Post-Stroke Aphasia Recovery._](https://www.biorxiv.org/content/10.64898/2026.09.17.751646v1.abstract) bioRxiv, 2026-09.
 
-- **Bruera, A.**, & Hartwigsen, G. (2025). [_A novel approach to map the causal impact of brain stimulation on semantic processing with language models._](https://www.biorxiv.org/content/10.1101/2025.05.06.652092v1) bioRxiv, 2025-05.
+- Schuler, AL., **Bruera, A.**, Hartwigsen, G. [_Disrupting the semantic network shifts activity to domain-general brain regions._](https://www.nature.com/articles/s41467-026-79266-2) Nature Communications 17, 11454 (2026).
+
+- Barchet, A. V., **Bruera, A.**, Rimmele, J. M., Obleser, J., & Hartwigsen, G. (2026). [_Linguistic information may compensate for age-related decline in attentional filtering._](https://www.nature.com/articles/s42003-026-10999-y) Communications Biology, 9(1), 1236.
+
+- **Bruera, A.**, & Hartwigsen, G. (2026). [_A novel approach to map the causal impact of brain stimulation on semantic processing with language models._](https://direct.mit.edu/nol/article/doi/10.1162/NOL.a.244/135305) Neurobiology of Language, 1-59.
+
+- **Bruera, A.**, & Poesio, M. (2025). [_Electroencephalography Searchlight Decoding Reveals Person-and Place-specific Responses for Semantic Category and Familiarity_](https://direct.mit.edu/jocn/article-abstract/37/1/135/119444/Electroencephalography-Searchlight-Decoding). Journal of Cognitive Neuroscience, 37(1), 135-154.
 
 - Martin, S., Ferrante, M., **Bruera, A.**, & Hartwigsen, G. (2025). [_Causal contributions of left inferior and medial frontal cortex to semantic and executive control._](https://www.nature.com/articles/s42003-025-08848-5) Communications Biology, 8(1), 1343.
 
@@ -41,13 +49,11 @@ On the side, I also co-manage/am part of [SØVN Records](./https://sovnrecords.b
 - **Bruera, A.**, Aldà, F., Di Cerbo, F. (2022). [_Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy_](./http://www.lrec-conf.org/proceedings/lrec2022/workshops/LEGAL/pdf/2022.legal-1.11.pdf), Proceedings of the Workshop on Ethical and Legal Issues in Human Language Technologies and Multilingual De-Identification of Sensitive Data In Language Resources within the 13th Language Resources and Evaluation Conference, June 2022, Marseille
 
 - **Bruera, A.** & Herbelot, A., (2021). [_Novel Aficionados and Doppelgängers: a referential task for semantic representations of individual entities_](./https://arxiv.org/abs/2104.10270), arXiv preprint arXiv:2104.10270
+ 
+## Patents
+
+- Francesco, A. L. D. A., **Bruera, A.**, & Di Cerbo, F. (2026). [_Generating user-based training data for machine learning._](https://patents.google.com/patent/US20230325776A1/en) U.S. Patent No. 12,688,457. Washington, DC: U.S. Patent and Trademark Office.
 
 ## Datasets
 
 Datasets for most of the papers are available on [my OSF profile](https://osf.io/q27xc/)
- 
-## Patent Application
-
-### 2023
-
-- Francesco, A. L. D. A., Bruera, A., & Di Cerbo, F. (2023). [Generating user-based training data for machine learning](https://patents.google.com/patent/US20230325776A1/en) U.S. Patent Application No. 17/716,368
